@@ -14,16 +14,16 @@ Projects Structure
         Home.jsx
     webpack.config.js
 #2
---microfrontend_remote
-----src
-------App.js
-------App.css
-------index.js
-------bootstrap.js
-------components
---------Footer.jsx
---------Header.jsx
-----webpack.config.js
+  microfrontend_remote
+    src
+      App.js
+      App.css
+      index.js
+      bootstrap.js
+      components
+        Footer.jsx
+        Header.jsx
+    webpack.config.js
 
 Setup
 # Install Node.js and npm: 
