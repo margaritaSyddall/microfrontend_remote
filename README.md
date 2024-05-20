@@ -4,15 +4,15 @@ This project demonstrates how to use MF to build a modular and scalable frontend
 
 Projects Structure
 #1
---microfrontend_host
-----src
-------App.js
-------App.css
-------index.js
-------bootstrap.js
-------components
---------Home.jsx
-----webpack.config.js
+  microfrontend_host
+    src
+      App.js
+      App.css
+      index.js  
+      bootstrap.js
+      components
+        Home.jsx
+    webpack.config.js
 #2
 --microfrontend_remote
 ----src
